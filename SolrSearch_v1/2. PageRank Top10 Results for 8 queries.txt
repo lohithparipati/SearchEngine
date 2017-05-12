@@ -1,0 +1,354 @@
+PageRank Search Algorithm
+--------------------------
+----------
+1. Brexit
+----------
+Results 1 - 10 of 415:
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/ab1ad1cc-ef85-46f2-905e-683cb6e09e42.html
+URL: http://www.nbcnews.com/business/markets/dow-closes-above-19-000-stocks-notch-record-closing-highs-n687341 
+Title : Dow Closes Above 19,000 as Stocks Notch Record Closing Highs - NBC News 
+Description : U.S. equities hit new all-time highs, as investors digested housing data and kept an eye on President-elect Donald Trump's policy agenda.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/abef8b4c-8fe0-4e6a-a720-6b47adcc4e40.html
+URL: http://www.nbcnews.com/storyline/brexit-referendum/brexit-fallout-stocks-set-continue-decline-after-u-k-vote-n599581 
+Title : Brexit Fallout: Dow Continues Decline Down More Than 250 Points - NBC News 
+Description : Within minutes of the U.S. markets opening on Friday, the Dow Jones had plunged 538.21 points, or 2.99 percent, to 17,472.86.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/ad311cbe-b1bb-416d-8786-c2e24a4f7407.html
+URL: http://www.nbcnews.com/feature/101/video/white-house-announces-new-syrian-troop-presence-555590211570 
+Title : White House Announces New Syrian Troop Presence - NBC News 
+Description : Calling it a "shift in strategy" the White House announced that U.S. Special Operations Forces will begin making deployments within Syria.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/ae2d6ea6-ddd8-4dc9-82db-53e577ff5a2f.html
+URL: http://www.nbcnews.com/meet-the-press/meet-press-october-2-2016-n658191 
+Title : Meet the Press - October 2, 2016 - NBC News 
+Description : Guests: Rudy Giuliani, Robby Mook, Michael Moore, Glenn Beck, Mark Halperin, Maria Teresa Kumar, Rich Lowry, Amy Walter
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/ae956d19-11ef-4a0c-8954-d9313c149a7b.html
+URL: http://www.nbcnews.com/business/travel/trump-travel-industry-are-rocky-start-n715491 
+Title : Trump and the Travel Industry Are Off to a Rocky Start - NBC News 
+Description : Trump's "extreme vetting" travel ban could have serious ripple effects for America's tourism dollars.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/aee4cfb6-2d17-4cc6-9833-a19ac6e1ef42.html
+URL: http://www.nbcnews.com/meet-the-press/meet-press-01-22-17-n710491 
+Title : Meet The Press 01/22/17 - NBC News 
+Description : Kellyanne Conway, Sen. Chuck Schumer, Tom Barrack, Eliana Johnson, Kristen Welker, Hugh Hewitt, Chris Matthews
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/af6ac0ab-e4ed-4aed-b82f-56bf58d23452.html
+URL: http://www.nbcnews.com/feature/30-seconds-to-know/video/gravitational-waves-discovered-but-what-exactly-are-they-621305411988 
+Title : Gravitational Waves Discovered - But What Exactly Are They? - NBC News 
+Description : Scientists say they've detected gravitational waves. So what does that mean? Columbia University Astrophysicist Summer Ash explains.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/af969dac-6b83-435c-a87b-62b59cb7260c.html
+URL: http://www.nbcnews.com/slideshow/thousands-march-europe-reverse-brexit-vote-n602996 
+Title : Thousands 'March for Europe' to Reverse Brexit Vote - NBC News 
+Description : Tens of thousands of EU supporters sang, danced and marched down the streets of London on Saturday to protest the UK's Brexit vote. 
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/afe90d05-ca27-47ef-a92e-19d7d6957220.html
+URL: http://www.nbcnews.com/feature/101/video/how-the-trumps-are-connected-to-heather-locklear-727974467873 
+Title : How the Trumps Are Connected to Heather Locklear - NBC News 
+Description : Click to find out that and more about Donald Trump daughter Tiffany Trump.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/b07ab5ce-1644-4321-b638-241a7640b80e.html
+URL: http://www.nbcnews.com/feature/30-seconds-to-know/video/wall-street-lingo-what-s-a-corporate-inversion-711598147533 
+Title : Wall Street Lingo: What's a Corporate Inversion? - NBC News 
+Description : Heard the term "Corporate Inversion" but not sure what it means. Find out in 30 seconds.
+----------
+2. NASDAQ
+----------
+Results 1 - 10 of 77:
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/ab1ad1cc-ef85-46f2-905e-683cb6e09e42.html
+URL: http://www.nbcnews.com/business/markets/dow-closes-above-19-000-stocks-notch-record-closing-highs-n687341 
+Title : Dow Closes Above 19,000 as Stocks Notch Record Closing Highs - NBC News 
+Description : U.S. equities hit new all-time highs, as investors digested housing data and kept an eye on President-elect Donald Trump's policy agenda.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/abdfcc6b-97fe-462f-b4b2-d13ca5999ca6.html
+URL: http://www.nbcnews.com/storyline/2016-election-day/obamacare-we-know-it-may-be-done-n681441 
+Title : Obamacare As We Know it May be Done For - NBC News 
+Description : Donald Trump promised that one of the first things he will do as president is to repeal Obamacare. If he and Congress do so, it'll be messy.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/abef8b4c-8fe0-4e6a-a720-6b47adcc4e40.html
+URL: http://www.nbcnews.com/storyline/brexit-referendum/brexit-fallout-stocks-set-continue-decline-after-u-k-vote-n599581 
+Title : Brexit Fallout: Dow Continues Decline Down More Than 250 Points - NBC News 
+Description : Within minutes of the U.S. markets opening on Friday, the Dow Jones had plunged 538.21 points, or 2.99 percent, to 17,472.86.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/ae0e9652-7749-4207-b5d1-03d0149b4ee6.html
+URL: http://www.nbcnews.com/watch/nightly-news/does-artificial-turf-present-a-health-risk-339753027899 
+Title : Does Artificial Turf Present a Health Risk? - NBC News 
+Description : An NBC investigation on artificial turf and 
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/af75f78c-c112-4095-a096-292012ae9252.html
+URL: http://www.nbcnews.com/watch/nbcnews-com/every-last-penny-the-booming-funeral-business-344079939759 
+Title : Every Last Penny: The Booming Funeral Business - NBC News 
+Description : From the hearse to the casket, the average cost for a funeral can run up to eight thousand dollars. But a time of mourning doesn't have to be a time of spend...
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/af8aef53-8267-429e-975c-d7fefdd2aa85.html
+URL: http://www.nbcnews.com/watch/nbcnews-com/how-far-can-a-dollar-go-117852739985 
+Title : How Far Can a Dollar Go? - NBC News 
+Description : Every month the government issues its measure of consumer inflation, and every month, Americans scratch their heads in puzzlement. For a better understanding...
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/97dba587-61e4-498a-92ff-803dbc4f9b61.html
+URL: http://www.nbcnews.com/id/34696903/?q=Facebook 
+Title : Facebook - Latest news, videos, and information- NBCNews.com 
+Description : N/A
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/8b1859e6-33c0-4ea4-801e-122154a17e3d.html
+URL: http://www.nbcnews.com/business/ 
+Title : Business: Money, Market, & Personal Finance News & Trends - NBC News 
+Description : Find the latest business news articles, photos and videos covering the economy, personal finance, financial markets and more on NBCNews.com.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/8d6c39e7-4e48-472f-8236-30d5c4b4cffa.html
+URL: http://www.nbcnews.com/watch/nbcnews-com/global-warming-heads-to-the-supreme-court-146060867825 
+Title : Global Warming Heads to the Supreme Court - NBC News 
+Description : The Supreme Court is hearing a case that tests whether the EPA can regulate greenhouse gases in power plants.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/b2e5d15a-cfee-4885-8df7-9a4ea3c253e7.html
+URL: http://www.nbcnews.com/business/markets/strap-summer-turmoil-likely-financial-markets-n386381 
+Title : Strap In: Summer of Turmoil Likely for Financial Markets - NBC News 
+Description : Summer is shaping up to be eventful, with Greece at a crossroads, stocks in China falling and the timing of a U.S. interest rate rise uncertain.
+-------
+3. NBA
+-------
+Results 1 - 10 of 321:
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/aaf2b314-37fc-4007-b485-0e7d6deb8289.html
+URL: http://www.nbcnews.com/feature/nbc-out/new-jersey-boy-becomes-first-transgender-boy-scout-n718456 
+Title : New Jersey Boy Becomes First Transgender Boy Scout - NBC News 
+Description : Joe Maldonado, 9, has become the first openly transgender member of the Boy Scouts of America.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/ab432748-7293-4b2d-aa7c-469570e95843.html
+URL: http://www.nbcnews.com/feature/nbc-out/pink-pussyhat-creator-addresses-criticism-over-name-n717886 
+Title : Pink 'Pussyhat' Creator Addresses Criticism Over Name - NBC News 
+Description : The cat-eared "pussyhat" became the crown of the Women's March -- and many women still wear it today -- but some find it exclusionary.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/aba81806-9e8d-4ed5-bb34-9501d85b7d3b.html
+URL: http://www.nbcnews.com/feature/flashback/video/americas-ufo-obsession-509320771984 
+Title : America's UFO Obsession - NBC News 
+Description : Revisiting the heyday of extraterrestrial reports and unexplained sightings in the sky.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/ac485d16-6c96-4393-be45-855a07306644.html
+URL: http://www.nbcnews.com/feature/nbc-out/gay-men-can-catch-zika-virus-through-sex-too-officials-n556266 
+Title : Gay Men Can Catch Zika Virus Through Sex, Too, Officials Confirm - NBC News 
+Description : Gay men can get Zika through sexual transmission too, just as women can, state and federal health officials said Thursday.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/b06615fe-03a7-49e4-98ad-80f5d11c9b67.html
+URL: http://www.nbcnews.com/feature/flashback/video/50-years-since-the-largest-beatles-concert-504742467559 
+Title : 50 Years Since the Largest Beatles Concert - NBC News 
+Description : On August 15, 1965 the largest Beatles concert took place at Shea Stadium with over 55,000 attendees.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/b0b6e336-03d7-45d6-ad25-a25549922f50.html
+URL: http://www.nbcnews.com/feature/nbc-out/rosie-odonnell-course-i-would-play-bannon-snl-n717791 
+Title : Rosie O'Donnell: 'Of Course I Would' Play Bannon on 'SNL' - NBC News 
+Description : Rosie O'Donnell tells NBC News that she's ready to take on Trump adviser Stephen Bannon, by popular demand.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/b160b7f1-b765-4aab-a44a-69086fbc27fc.html
+URL: http://www.nbcnews.com/feature/nbc-out/no-lgbtq-film-has-ever-won-best-picture-could-moonlight-n711681 
+Title : No LGBTQ Film Has Ever Won Best Picture. Could 'Moonlight' Be First? - NBC News 
+Description : Could "Moonlight" break through the "lavender ceiling" that's hung over LGBTQ Best Picture nominees for years?
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/824be3ec-0389-4e12-b6e7-5ccec84d445b.html
+URL: http://www.nbcnews.com/feature/flashback 
+Title : Flashback - Breaking News & Top Stories - NBC News 
+Description : Go to NBCNews.com for the latest Flashback news, photos and video. 
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/833dea30-c4b9-4b74-a291-66f38e538aa2.html
+URL: http://www.nbcnews.com/feature/flashback/video/1980s-how-trump-created-trump-719681091699 
+Title : 1980s: How Trump Created Trump - NBC News 
+Description : Even though Trump sometimes seems like he's sometimes shooting from the hip on the campaign trail, it's all part of a persona he refined back in the 80s.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/8341eb22-d03e-4239-8191-52e98c4c45e0.html
+URL: http://www.nbcnews.com/ 
+Title : NBC News - Breaking News & Top Stories - Latest World, US & Local News - NBC News 
+Description : Go to NBCNews.com for breaking news, videos, and the latest top stories in world news, business, politics, health and pop culture.
+------------
+4. Snapchat
+------------
+Results 1 - 10 of 233:
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/ac902771-644d-4027-93ee-39fdb5ff8a4b.html
+URL: http://www.nbcnews.com/tech/tech-news/will-wall-street-love-snapchat-much-millennials-n715401 
+Title : Snap Goes Public: Wall Street Prepares for Tech's Biggest IPO Since Facebook - NBC News 
+Description : Snap, the company behind Snapchat and Spectacles, filed its initial public offering today.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/ad2254df-00ce-48e7-b33a-d052422547a3.html
+URL: http://www.nbcnews.com/tech/security/did-kim-kardashian-west-s-flashy-social-posts-make-her-n658631 
+Title : Did Kim Kardashian West's Flashy Social Posts Make Her a Target? - NBC News 
+Description : The brazen heist has sent shockwaves through social media, where the reality star has relished giving fans an inside look at her glitzy lifestyle.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/ad390fd5-bf35-47c8-a9a1-6675489f9e8a.html
+URL: http://www.nbcnews.com/tech/tech-news/buried-work-emails-here-s-another-reason-envy-french-n702346 
+Title : New Law Could Let French Workers Ignore After-Hours Email - NBC News 
+Description : In the new year, many French workers could have the "right to disconnect" from work email during their off hours.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/af7031ce-74be-4b88-81f4-84056b26206b.html
+URL: http://www.nbcnews.com/tech/tech-news/snapchat-launches-video-sunglasses-becomes-snap-inc-n653846 
+Title : Snapchat Launches Video Sunglasses and Becomes Snap Inc. - NBC News 
+Description : Snapchat will launch Spectacles, $130 video sunglasses that can record and upload 10-second clips to social sites.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/af90cd0d-868c-4969-b8a6-0dd59cc57706.html
+URL: http://www.nbcnews.com/tech/tech-news/why-keep-your-data-locked-app-when-you-can-wear-n717806 
+Title : Why Keep Your Data Locked in an App When You Can Wear It? - NBC News 
+Description : Wearing your heart on your sleeve is so 2000s. Now you can wear your digital profile on your sleeve.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/83195e02-d5f9-4473-b2e7-d591b2cb8d84.html
+URL: http://www.nbcnews.com/tech/tech-news/amazon-prime-now-has-54-million-u-s-members-report-n505216 
+Title : Amazon Prime Now Has 54 Million U.S. Members, Report Says - NBC News 
+Description : The company said late last year that it had added 3 million Prime members around the world during the third week of December 2015 alone.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/84beb25d-bb51-478e-adfc-27f5a60522c6.html
+URL: http://www.nbcnews.com/tech/social-media/donald-trump-tweets-wrong-ivanka-who-then-tells-him-use-n707666 
+Title : Donald Trump Tweets at Wrong Ivanka, Who Then Tells Him to Use 'More Care on Twitter' - NBC News 
+Description : The apparent flub gave the other Ivanka � identified as an English council worker named Ivanka Majic � an unexpected platform.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/85f874d4-1527-49d9-9386-ac088edd6177.html
+URL: http://www.nbcnews.com/tech/social-media/snapchat-speed-filter-led-georgia-car-crash-lawsuit-alleges-n563616 
+Title : Snapchat 'Speed Filter' Led to Georgia Car Crash, Lawsuit Alleges - NBC News 
+Description : Lawyers say the speed tracker led to a car crash that resulted in a man suffering permanent brain damage.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/85fc5126-1517-437a-9671-64faeef99dc2.html
+URL: http://www.nbcnews.com/tech/tech-news/anti-semitic-stunt-end-youtube-star-pewdiepie-n720696 
+Title : Is Anti-Semitic Stunt the End for YouTube Star PewDiePie? - NBC News 
+Description : YouTube just pulled the plug on the pranky vlogger's second season show after he posted a series of videos showing anti-Semitic imagery.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/87ac86fe-dc60-4150-b98f-20b0ac7d3d52.html
+URL: http://www.nbcnews.com/tech/tech-news/snap-using-vending-machines-its-new-camera-glasses-n682696 
+Title : Snap Is Using Vending Machines for Its New Camera Glasses - NBC News 
+Description : The hipsteresque frames can wirelessly upload short videos to Snapchat, and light up to let others know when recording is taking place.
+-----------------------
+5. Illegal Immigration
+-----------------------
+Results 1 - 10 of 8375:
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/aab30533-cb76-48c9-aac6-b551dc6f9965.html
+URL: http://www.nbcnews.com/politics/first-read/first-read-s-morning-clips-flynn-ice-n720136 
+Title : First Read's Morning Clips: On Flynn Ice - NBC News 
+Description : A roundup of the most important political news stories of the day
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/aab43430-32d0-4c2d-a87e-26331c8631ce.html
+URL: http://www.nbcnews.com/news/us-news/fort-lauderdale-shooting-shocking-new-video-shows-moment-rampage-began-n704516 
+Title : Fort Lauderdale Shooting: Shocking New Video Shows Moment Rampage Began - NBC News 
+Description : A horrific security video aired Sunday shows the moment the Fort Lauderdale Airport shooter pulled a gun from his waistband and began his deadly rampage.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/aab4eb9c-288f-43c1-99a0-8ff452246504.html
+URL: http://www.nbcnews.com/video/watch-surfer-mick-fanning-fight-off-shark-attack-487211587675 
+Title : Watch Surfer Mick Fanning Fight Off Shark Attack - NBC News 
+Description : During �the televised J-Bay Open surfing competition in South Africa, surfer Mick Fanning can be seen fighting off a shark attack.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/aab5b586-e02f-4420-82f5-f81a093678e0.html
+URL: http://www.nbcnews.com/news/latino/latino-soccer-fans-react-chile-s-triumph-lionel-messi-s-n599726 
+Title : Latino Soccer Fans React to Chile's Triumph, Lionel Messi's Heartbreak - NBC News 
+Description : Latino soccer fans weigh in after Chile defeats Argentina and Lionel Messi retires in defeat after the 2016 La Copa America final.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/aab7f771-3501-4fc7-ab77-d538828ac7e0.html
+URL: http://www.nbcnews.com/watch/nbcnews-com/why-do-we-have-eyebrows-and-eyelashes-441491011936 
+Title : Why Do We Have Eyebrows and Eyelashes? - NBC News 
+Description : NBC News Medical Contributor Dr. Natalie Azar explains the evolutionary purpose of human facial hair.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/aac085b2-3be6-4857-9dbd-fd4a8d8c2802.html
+URL: http://www.nbcnews.com/storyline/charleston-church-shooting/dylann-roofs-sister-seeks-wedding-donations-then-abandons-campaign-n385896 
+Title : Dylann Roof's Sister Seeks Wedding Donations, then Abandons Campaign - NBC News 
+Description : The sister of accused Charleston church shooter Dylann Roof launched a campaign to raise money to cover the costs of her abandoned wedding.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/aac9da2a-01e6-4007-8c77-cc37e7b8ba3c.html
+URL: http://www.nbcnews.com/nightly-news/video/how-the-daily-table-grocery-store-is-offering-deep-discounts-473172547906 
+Title : How the Daily Table Grocery Store Is Offering Deep Discounts - NBC News 
+Description : The man who helped turn Trader Joe�s into a phenomenon has a new retail concept that could bridge two pressing issues � food waste and hunger.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/aad258c7-0745-408f-adcf-10d8ceeae3d3.html
+URL: http://www.nbcnews.com/video/destruction-and-despair-in-aftermath-of-aleppo-attack-820847683892 
+Title : Destruction and Despair in Aftermath of Aleppo Attack - NBC News 
+Description : Video shot in the immediate aftermath of an attack takes the viewer into the hellish reality of life in eastern Aleppo.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/aada9b4b-df09-4970-84f6-5c4c85a7b8f7.html
+URL: http://www.nbcnews.com/feature/long-story-short/video/the-climate-talks-havent-we-been-down-this-road-already-577832003988 
+Title : The Climate Talks: Haven't We Been Down This Road Already? - NBC News 
+Description : A climate change meeting in Paris is far from the first time world leaders have gathered at a high level to discuss how to tackle the issue.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/aaf611a4-1e10-4c1b-95a0-4639faf11f52.html
+URL: http://www.nbcnews.com/news/us-news/pentagon-blew-36m-unwanted-afghanistan-outpost-report-n361941 
+Title : Pentagon Blew $36M on Unwanted Afghanistan Outpost: Report - NBC News 
+Description : A government watchdog claims some defense officials also stonewalled their probe into the facility.
+----------------
+6. Donald Trump
+----------------
+Results 1 - 10 of 12091:
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/aab30533-cb76-48c9-aac6-b551dc6f9965.html
+URL: http://www.nbcnews.com/politics/first-read/first-read-s-morning-clips-flynn-ice-n720136 
+Title : First Read's Morning Clips: On Flynn Ice - NBC News 
+Description : A roundup of the most important political news stories of the day
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/aab4010e-6f64-4b82-88b0-ca22daf37500.html
+URL: http://www.nbcnews.com/business/business-news/science-fiction-reality-converge-detroit-auto-show-n704281 
+Title : Science Fiction and Reality Converge at the Detroit Auto Show - NBC News 
+Description : As many as 800,000 potential customers are expected to stream through the turnstiles at one of the nation's biggest auto shows.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/aab43430-32d0-4c2d-a87e-26331c8631ce.html
+URL: http://www.nbcnews.com/news/us-news/fort-lauderdale-shooting-shocking-new-video-shows-moment-rampage-began-n704516 
+Title : Fort Lauderdale Shooting: Shocking New Video Shows Moment Rampage Began - NBC News 
+Description : A horrific security video aired Sunday shows the moment the Fort Lauderdale Airport shooter pulled a gun from his waistband and began his deadly rampage.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/aab4eb9c-288f-43c1-99a0-8ff452246504.html
+URL: http://www.nbcnews.com/video/watch-surfer-mick-fanning-fight-off-shark-attack-487211587675 
+Title : Watch Surfer Mick Fanning Fight Off Shark Attack - NBC News 
+Description : During �the televised J-Bay Open surfing competition in South Africa, surfer Mick Fanning can be seen fighting off a shark attack.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/aab5b586-e02f-4420-82f5-f81a093678e0.html
+URL: http://www.nbcnews.com/news/latino/latino-soccer-fans-react-chile-s-triumph-lionel-messi-s-n599726 
+Title : Latino Soccer Fans React to Chile's Triumph, Lionel Messi's Heartbreak - NBC News 
+Description : Latino soccer fans weigh in after Chile defeats Argentina and Lionel Messi retires in defeat after the 2016 La Copa America final.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/aab7f771-3501-4fc7-ab77-d538828ac7e0.html
+URL: http://www.nbcnews.com/watch/nbcnews-com/why-do-we-have-eyebrows-and-eyelashes-441491011936 
+Title : Why Do We Have Eyebrows and Eyelashes? - NBC News 
+Description : NBC News Medical Contributor Dr. Natalie Azar explains the evolutionary purpose of human facial hair.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/aac973e5-4c1d-45cf-8346-90ba7f29d750.html
+URL: http://www.nbcnews.com/meet-the-press/meet-press-transcript-october-4-2015-n438271 
+Title : Meet the Press Transcript - October 4, 2015 - NBC News 
+Description : Guests: Donald Trump, fmr. Nat. Sec. Advisor Stephen Hadley, fmr. Amb. Michael McFaul, Miguel Almaguer, Ruth Marcus, Amy Holmes, Rich Lowry, Mark Leibovich
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/aac9da2a-01e6-4007-8c77-cc37e7b8ba3c.html
+URL: http://www.nbcnews.com/nightly-news/video/how-the-daily-table-grocery-store-is-offering-deep-discounts-473172547906 
+Title : How the Daily Table Grocery Store Is Offering Deep Discounts - NBC News 
+Description : The man who helped turn Trader Joe�s into a phenomenon has a new retail concept that could bridge two pressing issues � food waste and hunger.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/aacc668f-e609-45f0-9036-a0859c6d7414.html
+URL: http://www.nbcnews.com/storyline/bowe-bergdahl-released/sgt-bowe-bergdahl-has-not-been-reunited-his-parents-n130836 
+Title : Sgt. Bowe Bergdahl Has Not Been Reunited With His Parents - NBC News 
+Description : Army officials say the freed soldier will determine when he sees his parents for the first time in five years.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/aad258c7-0745-408f-adcf-10d8ceeae3d3.html
+URL: http://www.nbcnews.com/video/destruction-and-despair-in-aftermath-of-aleppo-attack-820847683892 
+Title : Destruction and Despair in Aftermath of Aleppo Attack - NBC News 
+Description : Video shot in the immediate aftermath of an attack takes the viewer into the hellish reality of life in eastern Aleppo.
+----------
+7. Russia
+----------
+Results 1 - 10 of 7612:
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/aab30533-cb76-48c9-aac6-b551dc6f9965.html
+URL: http://www.nbcnews.com/politics/first-read/first-read-s-morning-clips-flynn-ice-n720136 
+Title : First Read's Morning Clips: On Flynn Ice - NBC News 
+Description : A roundup of the most important political news stories of the day
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/aab43430-32d0-4c2d-a87e-26331c8631ce.html
+URL: http://www.nbcnews.com/news/us-news/fort-lauderdale-shooting-shocking-new-video-shows-moment-rampage-began-n704516 
+Title : Fort Lauderdale Shooting: Shocking New Video Shows Moment Rampage Began - NBC News 
+Description : A horrific security video aired Sunday shows the moment the Fort Lauderdale Airport shooter pulled a gun from his waistband and began his deadly rampage.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/aab4eb9c-288f-43c1-99a0-8ff452246504.html
+URL: http://www.nbcnews.com/video/watch-surfer-mick-fanning-fight-off-shark-attack-487211587675 
+Title : Watch Surfer Mick Fanning Fight Off Shark Attack - NBC News 
+Description : During �the televised J-Bay Open surfing competition in South Africa, surfer Mick Fanning can be seen fighting off a shark attack.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/aab7f771-3501-4fc7-ab77-d538828ac7e0.html
+URL: http://www.nbcnews.com/watch/nbcnews-com/why-do-we-have-eyebrows-and-eyelashes-441491011936 
+Title : Why Do We Have Eyebrows and Eyelashes? - NBC News 
+Description : NBC News Medical Contributor Dr. Natalie Azar explains the evolutionary purpose of human facial hair.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/aac973e5-4c1d-45cf-8346-90ba7f29d750.html
+URL: http://www.nbcnews.com/meet-the-press/meet-press-transcript-october-4-2015-n438271 
+Title : Meet the Press Transcript - October 4, 2015 - NBC News 
+Description : Guests: Donald Trump, fmr. Nat. Sec. Advisor Stephen Hadley, fmr. Amb. Michael McFaul, Miguel Almaguer, Ruth Marcus, Amy Holmes, Rich Lowry, Mark Leibovich
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/aac9da2a-01e6-4007-8c77-cc37e7b8ba3c.html
+URL: http://www.nbcnews.com/nightly-news/video/how-the-daily-table-grocery-store-is-offering-deep-discounts-473172547906 
+Title : How the Daily Table Grocery Store Is Offering Deep Discounts - NBC News 
+Description : The man who helped turn Trader Joe�s into a phenomenon has a new retail concept that could bridge two pressing issues � food waste and hunger.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/aad258c7-0745-408f-adcf-10d8ceeae3d3.html
+URL: http://www.nbcnews.com/video/destruction-and-despair-in-aftermath-of-aleppo-attack-820847683892 
+Title : Destruction and Despair in Aftermath of Aleppo Attack - NBC News 
+Description : Video shot in the immediate aftermath of an attack takes the viewer into the hellish reality of life in eastern Aleppo.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/aada9b4b-df09-4970-84f6-5c4c85a7b8f7.html
+URL: http://www.nbcnews.com/feature/long-story-short/video/the-climate-talks-havent-we-been-down-this-road-already-577832003988 
+Title : The Climate Talks: Haven't We Been Down This Road Already? - NBC News 
+Description : A climate change meeting in Paris is far from the first time world leaders have gathered at a high level to discuss how to tackle the issue.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/aadf83fb-b46b-48dc-81d6-61d6fbf85071.html
+URL: http://www.nbcnews.com/politics/politics-news/tom-perez-enters-race-dnc-chair-setting-test-obama-progressives-n696651 
+Title : Tom Perez Enters Race for DNC Chair, Setting Up Test for Obama, Progressives - NBC News 
+Description : By entering a race dominated by Minnesota Rep. Keith Ellison, Perez becomes the de facto candidate of the party's establishment.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/aae0679d-a476-4062-a790-3ab470191533.html
+URL: http://www.nbcnews.com/news/world/china-flew-nuclear-capable-bombers-near-taiwan-trump-call-n692421 
+Title : China Flew Nuclear-Capable Bombers Near Taiwan Before Trump Call - NBC News 
+Description : The flight, the first of its kind, was confirmed to NBC News on Tuesday by Ministry of National Defense Spokesman Chen Chung-chi.
+--------
+8. NASA
+--------
+Results 1 - 10 of 536:
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/aaebe5b4-db80-40e5-aa13-55208878b7ec.html
+URL: http://www.nbcnews.com/mach/features/why-warp-speed-will-never-happen-n716081 
+Title : Why Warp Speed Will Never Happen - NBC News 
+Description : Sometimes the pendulum of our belief swings too far. For example, our perspective on what's possible.Before the Renaissance, there were plenty o
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/ab2550aa-f6e6-48c0-a568-d44e84205df3.html
+URL: http://www.nbcnews.com/slideshow/year-space-pictures-2016-n698736 
+Title : Year in Space: 2016 - NBC News 
+Description : See major lasers, distant stars, orbiting astronauts and other out-of-this-world photos from 2016.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/ab29a92d-3ced-4c23-bcea-82c984231792.html
+URL: http://www.nbcnews.com/science/science-news/meteorite-suspected-death-man-southern-india-n513816 
+Title : Meteorite Suspected in Death of Man in Southern India - NBC News 
+Description : Indian scientists are investigating whether a man was killed by a meteorite, which if confirmed would be the first recorded death from falling fragments of space rock in almost 200 years.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/abbe6c8a-775d-411f-93cc-eb6627d756e4.html
+URL: http://www.nbcnews.com/science/space/astronaut-scott-kelly-retiring-nasa-n536966 
+Title : Astronaut Scott Kelly Retiring From NASA - NBC News 
+Description : Kelly returned March 1 from a year-long mission in which he spent 340 days in space, gathering data that could help others in long trips.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/abe29ab0-6a22-4aa4-909a-a3a8d16f2789.html
+URL: http://www.nbcnews.com/meet-the-press/meet-press-january-3-2016-n489381 
+Title : Meet the Press - January 3, 2016 - NBC News 
+Description : Guests: Gov. John Kasich, Sen. Rand Paul, Hallie Jackson, Kristen Welker, Capt. Mark Kelly, Lt. Gov. Dan Patrick, Chris Matthews, Jennifer Rubin, Sara Fagen, Eugene Robinson, Richard Dorment
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/abfdb4b6-af45-40c6-840c-70cb0f58084e.html
+URL: http://www.nbcnews.com/science/space/new-horizons-photos-reveal-pluto-ice-mountains-charon-crater-n392691 
+Title : New Horizons Photos Show Pluto's Ice Mountains and Charon's Huge Crater - NBC News 
+Description : The latest pictures sent back by NASA's New Horizons probe reveal high mountains of ice on Pluto and a giant impact basin on Charon, its biggest moon.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/ac21c261-d7c8-40cb-9822-bf1330fbfb1d.html
+URL: http://www.nbcnews.com/slideshow/we-are-america-new-african-american-history-museum-opens-n653866 
+Title : 'We Are America': New African American History Museum Opens - NBC News 
+Description : After more than 100 years the Smithsonian's National Museum of African American History and Culture opened in Washington, D.C.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/aceca476-37b6-44b0-a46b-d0d01276a4d6.html
+URL: http://www.nbcnews.com/tech/innovation/thought-robots-taking-down-internet-was-scary-take-look-n672576 
+Title : Thought Robots Taking Down the Internet Was Scary? Take a Look at This... - NBC News 
+Description : After seeing the artificially intelligent "Nightmare Machine" created by M.I.T. researchers, you may never look at Clinton or Trump the same way.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/ada37be0-7b4a-4666-ab58-147a905716aa.html
+URL: http://www.nbcnews.com/slideshow/thousands-stranded-migrants-face-freezing-temperatures-hungarian-border-n705266 
+Title : Stranded Migrants Brave Bitter Cold in Serbian Warehouses - NBC News 
+Description : According to the latest figures, around 7,000 migrants are stranded in Serbia waiting for a chance to move forward toward the EU.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/adc37de0-f805-4b74-8662-9b9c806272f0.html
+URL: http://www.nbcnews.com/science/space/will-pluto-join-water-worlds-new-horizons-views-spark-interest-n393306 
+Title : Will Pluto Join the Water Worlds? New Horizons' Views Spark Speculation - NBC News 
+Description : The discovery of 11,000-foot-high mountains on Pluto � and the implication that they're made of water ice � is stimulating all sorts of wonderings.

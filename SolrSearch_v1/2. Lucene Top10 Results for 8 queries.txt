@@ -1,0 +1,354 @@
+DEFAULT Search Algorithm
+-------------------------
+----------
+1. Brexit
+----------
+Results 1 - 10 of 415:
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/035b6cbb-904d-4dcb-acc1-b39b55555dd9.html
+URL: http://www.nbcnews.com/storyline/brexit-referendum/4-things-american-consumers-should-know-about-brexit-n598356 
+Title : 4 Things American Consumers Should Know About the Brexit - NBC News 
+Description : Are you befuddled by the Brexit?
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/2c45d221-46c9-4cf3-920d-c3a87485dfb8.html
+URL: http://www.nbcnews.com/storyline/brexit-referendum/brexit-chaos-u-k-government-loses-court-case-eu-withdrawal-n677241 
+Title : Brexit in Chaos as U.K. Government Loses Court Case on EU Withdrawal - NBC News 
+Description : In a major blow for Prime Minister Theresa May, the High Court said her government needs the consent of lawmakers before launching Brexit.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/61238700-526c-4e3f-9f71-69d152cc0d87.html
+URL: http://www.nbcnews.com/storyline/brexit-referendum/britain-s-brexit-how-baby-boomers-defeated-millennials-historic-vote-n598481 
+Title : Britain's Brexit: How Baby Boomers Defeated Millennials in Historic Vote - NBC News 
+Description : The United Kingdom's decision to amputate itself from the European Union on Friday exposed something approaching an intergenerational war of ideas.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/cacc07c9-689c-4d38-819f-bbc797bdc7f6.html
+URL: http://www.nbcnews.com/storyline/brexit-referendum/triumph-trump-online-reactions-brexit-n598106 
+Title : From Triumph to Trump: Online Reactions to 'Brexit' - NBC News 
+Description : The Twitter hashtag #Brexit topped the list of trending topics.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/dc3ce7bc-56b0-4dd5-b2de-f421d8167c5c.html
+URL: http://www.nbcnews.com/storyline/brexit-referendum/did-brexit-referendum-embolden-racists-britain-s-streets-n599451 
+Title : Did Brexit Referendum Embolden Racists on Britain's Streets? - NBC News 
+Description : Reports of racial abuse have spiked following Britain's bitterly fought "Brexit" referendum, according to campaigners.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/46550da7-0f82-42bc-840b-e533e1d10a74.html
+URL: http://www.nbcnews.com/storyline/brexit-referendum/here-s-how-brexit-vote-will-affect-price-gas-n600641 
+Title : Here's How the Brexit Vote Will Affect the Price of Gas - NBC News 
+Description : The Brexit fallout could have an unexpected silver lining in the form of flat or even lower gas prices.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/44659258-cfcb-4edb-ba77-6018c26bae37.html
+URL: http://www.nbcnews.com/storyline/brexit-referendum/brexit-vote-why-leave-result-has-global-automakers-worried-n598436 
+Title : Brexit Vote: Why the 'Leave' Result Has Global Automakers Worried - NBC News 
+Description : Among those fearing the impact are key global automakers like Toyota, General Motors and Britain's own Jaguar Land Rover.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/4af864b4-e543-4ccb-b5ed-aff04ac2ba0c.html
+URL: http://www.nbcnews.com/storyline/brexit-referendum/pro-brexit-trade-minister-liam-fox-rips-british-businesses-too-n646051 
+Title : Pro-Brexit Trade Minister Liam Fox Rips British Businesses as 'Too Lazy, Too Fat' - NBC News 
+Description : Fox, who was a prominent campaigner for Britain to leave the European Union, was recorded making the comments during a drinks party with activists.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/ea483d6c-53c2-476f-948d-97d6cd0cb394.html
+URL: http://www.nbcnews.com/storyline/brexit-referendum/if-u-k-votes-brexit-will-other-countries-follow-n597536 
+Title : Is 'Brexit' the Beginning of End for European Union? - NBC News 
+Description : Analysts are worried the outcome could have far-reaching consequences for Europe's political landscape.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/2f73e6ee-2725-4f3c-874e-bb13fc5c2ad7.html
+URL: http://www.nbcnews.com/storyline/brexit-referendum/if-britain-votes-brexit-will-other-countries-follow-n597536 
+Title : Is 'Brexit' the Beginning of End for European Union? - NBC News 
+Description : Analysts are worried the outcome could have far-reaching consequences for Europe's political landscape.
+----------
+2. NASDAQ
+----------
+Results 1 - 10 of 77:
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/619371a9-8b61-4931-9f10-2aa323789d72.html
+URL: http://www.nbcnews.com/business/markets/wall-street-record-highs-techs-energy-stocks-rally-n686846 
+Title : Wall Street at Record Highs as Techs, Energy Stocks Rally - NBC News 
+Description : The Dow, S&P 500 and the Nasdaq hit record intraday highs on Monday as Apple and Facebook propelled technology shares and oil boosted energy stocks.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/f77ce5da-0913-44a7-b8ef-a1357a0dae66.html
+URL: http://www.nbcnews.com/business/markets/dow-pauses-after-six-day-rally-tech-stocks-finally-get-n684211 
+Title : Dow Pauses After Six-Day Rally; Tech Stocks Finally Get a Boost - NBC News 
+Description : The S&P 500 and the Nasdaq were higher in early afternoon trading on Tuesday as tech stocks were back in demand after a post-election drubbing.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/0ece91f9-a3bb-43c8-8f94-e1fa30daa331.html
+URL: http://www.nbcnews.com/business/markets/wall-street-record-highs-techs-energy-stocks-rally-n686846 
+Title : Wall Street at Record Highs as Techs, Energy Stocks Rally - NBC News 
+Description : The Dow, S&P 500 and the Nasdaq hit record intraday highs on Monday as Apple and Facebook propelled technology shares and oil boosted energy stocks.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/ffddfb44-e65b-4fb6-9a2f-630262352dfe.html
+URL: http://www.nbcnews.com/business/markets/dow-pauses-after-six-day-rally-tech-stocks-finally-get-n684211 
+Title : Dow Pauses After Six-Day Rally; Tech Stocks Finally Get a Boost - NBC News 
+Description : The S&P 500 and the Nasdaq were higher in early afternoon trading on Tuesday as tech stocks were back in demand after a post-election drubbing.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/92b21a9a-d9c3-4275-ab92-2c17c6ef3522.html
+URL: http://www.nbcnews.com/business/markets/dow-s-p-close-all-time-highs-12th-time-election-n693311 
+Title : Dow, S&P Close at All-Time Highs for 12th Time Since Election Day - NBC News 
+Description : U.S. equities closed sharply higher on Wednesday as the Dow and S&P hit new record highs.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/92f16f45-b494-4494-9c6e-6eb420bf96b0.html
+URL: http://www.nbcnews.com/business/markets/dow-breaks-above-19-000-s-p-jumps-over-2-n687161 
+Title : Dow Breaks Above 19,000, S&P Jumps Over 2,200 as Stocks Hit Record Highs - NBC News 
+Description : U.S. equities hit new all-time highs Tuesday as investors awaited housing data and kept an eye on President-elect Donald Trump's policy agenda.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/6931aa4a-3275-42d4-8075-73ee419a1d4e.html
+URL: http://www.nbcnews.com/business/markets/president-trump-dow-20k-i-m-very-proud-n712436 
+Title : President Trump on Dow 20K: 'I'm Very Proud of That' - NBC News 
+Description : President Donald Trump weighed in on the Dow Jones industrial average reaching the 20,000 milestone, saying he was "very proud."
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/801de5e3-3c70-46f5-9854-20909c366d8b.html
+URL: http://www.nbcnews.com/business/markets/dow-closes-above-19-000-stocks-notch-record-closing-highs-n687341 
+Title : Dow Closes Above 19,000 as Stocks Notch Record Closing Highs - NBC News 
+Description : U.S. equities hit new all-time highs, as investors digested housing data and kept an eye on President-elect Donald Trump's policy agenda.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/47353bda-6fe2-4cf8-8431-0643863e4001.html
+URL: http://www.nbcnews.com/business/markets/dow-s-p-close-all-time-highs-12th-time-election-n693311 
+Title : Dow, S&P Close at All-Time Highs for 12th Time Since Election Day - NBC News 
+Description : U.S. equities closed sharply higher on Wednesday as the Dow and S&P hit new record highs.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/14aa1fbe-c131-43d9-a22e-bbe7f05e9a87.html
+URL: http://www.nbcnews.com/technology/google-stock-surges-tops-1-000-share-8C11418694 
+Title : Google stock surges, tops $1,000 per share - NBC News 
+Description : Google shares jumped to an all-time high above $1,000 on Friday after the search engine giant reported a surge in mobile and video advertising that helped drive quarterly revenue up 23 percent.�At least 16 brokerages raised their price targets on the stock to between $880 and $1,220, with Deutsche Bank bumping up its target price by 26 percent.�The shares rose 13 percent to $1007.
+-------
+3. NBA
+-------
+Results 1 - 10 of 321:
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/2d79f0ea-4ccf-4bd7-be75-26d64a67fee8.html
+URL: http://www.nbcnews.com/feature/nbc-out/op-ed-nba-all-star-n602511 
+Title : Op-Ed: NBA Must Play 'Hardball' With North Carolina Over HB2 - NBC News 
+Description : It's time for the NBA, which is holding its 2017 All-Star Game in Charlotte, to play "hardball" with North Carolina over the HB2 "bathroom bill," according to sports journalist Jason Page.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/67dbcb60-1e63-42d0-bd4d-4a988236c493.html
+URL: http://www.nbcnews.com/news/us-news/nba-star-s-low-key-activism-sign-times-n609226 
+Title : NBA Star's Low Key Activism Is a Sign of the Times - NBC News 
+Description : Carmelo Anthony isn't the showiest of NBA stars, which turns out to suit his modern brand of social activism perfectly.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/f2d01e8b-5f47-4a93-a2db-dc09b5b6aeb6.html
+URL: http://www.nbcnews.com/feature/nbc-out/nba-all-star-game-spotlights-lgbtq-oasis-south-n720976 
+Title : NBA All-Star Game Spotlights LGBTQ Oasis in the South - NBC News 
+Description : New Orleans' LGBTQ-inclusiveness will be on full display this weekend in a not-so-subtle statement about equality.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/23dd7a9a-0edc-429f-8a17-76f6769e9528.html
+URL: http://www.nbcnews.com/feature/nbc-out/nba-all-star-game-spotlights-lgbtq-oasis-south-n720976 
+Title : NBA All-Star Game Spotlights LGBTQ Oasis in the South - NBC News 
+Description : New Orleans' LGBTQ-inclusiveness will be on full display this weekend in a not-so-subtle statement about equality.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/0eb00e96-d3fb-469d-a91c-6b6ca4d724b2.html
+URL: http://www.nbcnews.com/news/us-news/charles-oakley-arrest-why-was-basketball-legend-dragged-out-arena-n718756 
+Title : Charles Oakley Arrest: Why Was a Basketball Legend Dragged Out of Arena in Handcuffs? - NBC News 
+Description : The New York Knicks, one of the more storied franchises in the history of the NBA, are in the midst of a season defined more by dysfunction than dominance on the basketball court.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/8923f191-028a-44ad-b09c-e1c599b1cd28.html
+URL: http://www.nbcnews.com/news/us-news/charles-oakley-arrest-why-was-basketball-legend-dragged-out-arena-n718756 
+Title : Charles Oakley Arrest: Why Was a Basketball Legend Dragged Out of Arena in Handcuffs? - NBC News 
+Description : The New York Knicks, one of the more storied franchises in the history of the NBA, are in the midst of a season defined more by dysfunction than dominance on the basketball court.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/24afcc01-1665-4e74-9b1a-87a343ad3e4d.html
+URL: http://www.nbcnews.com/meet-the-press/meet-press-transcript-april-27-2014-n90776 
+Title : Meet the Press Transcript - April 27, 2014 - NBC News 
+Description : DAVID GREGORY: On Meet the Press this morning, a developing story, President Obama has reacted strongly to another racial flashpoint in this country.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/b8a4e7d0-1070-484f-bc35-315f04ebeaff.html
+URL: http://www.nbcnews.com/news/sports/charles-oakley-arrest-security-chief-fired-after-knicks-icon-thrown-n719511 
+Title : Former Knicks Star Charles Oakley Banned From Madison Square Garden After Fracas: Dolan - NBC News 
+Description : Knicks legend Charles Oakley has been banned from entering Madison Square Garden indefinitely after being ejected Wednesday, MSG chairman James Dolan said Friday afternoon.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/5a786e10-ccac-4e7a-9e1e-58647b285d12.html
+URL: http://www.nbcnews.com/meet-the-press/meet-press-transcript-april-27-2014-n90776 
+Title : Meet the Press Transcript - April 27, 2014 - NBC News 
+Description : DAVID GREGORY: On Meet the Press this morning, a developing story, President Obama has reacted strongly to another racial flashpoint in this country.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/e32397a2-a09f-4135-bd67-46e9ece82bb9.html
+URL: http://www.nbcnews.com/storyline/aaron-hernandez/players-turned-prisoners-ex-pro-athletes-who-are-behind-bars-n342056 
+Title : Aaron Hernandez Conviction: Ex-Patriots Star Joins Other Ex-Pros Behind Bars - NBC News 
+Description : Former New England Patriot Aaron Hernandez, convicted Wednesday for murder, will soon join a long roster of former pro athletes in prison.
+------------
+4. Snapchat
+------------
+Results 1 - 10 of 233:
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/d7f88191-453c-4cc1-8cad-25c9f2541bd0.html
+URL: http://www.nbcnews.com/feature/college-game-plan/colleges-use-snapchat-attract-prospective-students-n570701 
+Title : Colleges Use Snapchat to Attract Prospective Students - NBC News 
+Description : From reaching prospective students to fostering school spirit, universities are using Snapchat as a marketing tool.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/af7031ce-74be-4b88-81f4-84056b26206b.html
+URL: http://www.nbcnews.com/tech/tech-news/snapchat-launches-video-sunglasses-becomes-snap-inc-n653846 
+Title : Snapchat Launches Video Sunglasses and Becomes Snap Inc. - NBC News 
+Description : Snapchat will launch Spectacles, $130 video sunglasses that can record and upload 10-second clips to social sites.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/a10ab0ed-e53d-4b4f-8508-cfbd1577ad32.html
+URL: http://www.nbcnews.com/tech/tech-news/will-wall-street-love-snapchat-much-millennials-n715401 
+Title : Snap Goes Public: Wall Street Prepares for Tech's Biggest IPO Since Facebook - NBC News 
+Description : Snap, the company behind Snapchat and Spectacles, filed its initial public offering today.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/a4c6131e-e962-4d9b-8808-649ca9030de7.html
+URL: http://www.nbcnews.com/feature/college-game-plan/colleges-use-snapchat-attract-prospective-students-n570701 
+Title : Colleges Use Snapchat to Attract Prospective Students - NBC News 
+Description : From reaching prospective students to fostering school spirit, universities are using Snapchat as a marketing tool.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/ac902771-644d-4027-93ee-39fdb5ff8a4b.html
+URL: http://www.nbcnews.com/tech/tech-news/will-wall-street-love-snapchat-much-millennials-n715401 
+Title : Snap Goes Public: Wall Street Prepares for Tech's Biggest IPO Since Facebook - NBC News 
+Description : Snap, the company behind Snapchat and Spectacles, filed its initial public offering today.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/a431a5d1-ec3c-4e7d-9f29-faa727fa76d8.html
+URL: http://www.nbcnews.com/news/nbcblk/michelle-obama-joins-snapchat-michelleobama-n596581 
+Title : Michelle Obama Joins Snapchat as 'MichelleObama' - NBC News 
+Description : Michelle Obama joined Snapchat on Tuesday to promote her upcoming trip to Liberia, Morocco and Spain to encourage education for girls.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/e0c17f48-c22b-4399-996a-faab4ea3c087.html
+URL: http://www.nbcnews.com/news/latino/mit-snapchat-discover-team-reach-multicultural-latinos-n695386 
+Title : mit�, Snapchat Discover Team Up to Reach Multicultural, Latinos - NBC News 
+Description : If you have Shapchat on your smartphone you can now view mit� articles, videos, animations and photos on the Discover feature daily.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/e63b1d46-2084-4634-8b59-76c7487ab9a0.html
+URL: http://www.nbcnews.com/news/latino/mit-snapchat-discover-team-reach-multicultural-latinos-n695386 
+Title : mit�, Snapchat Discover Team Up to Reach Multicultural, Latinos - NBC News 
+Description : If you have Shapchat on your smartphone you can now view mit� articles, videos, animations and photos on the Discover feature daily.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/e7b0bcc8-260b-438d-8950-41ec392e8905.html
+URL: http://www.nbcnews.com/news/nbcblk/michelle-obama-joins-snapchat-michelleobama-n596581 
+Title : Michelle Obama Joins Snapchat as 'MichelleObama' - NBC News 
+Description : Michelle Obama joined Snapchat on Tuesday to promote her upcoming trip to Liberia, Morocco and Spain to encourage education for girls.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/85f874d4-1527-49d9-9386-ac088edd6177.html
+URL: http://www.nbcnews.com/tech/social-media/snapchat-speed-filter-led-georgia-car-crash-lawsuit-alleges-n563616 
+Title : Snapchat 'Speed Filter' Led to Georgia Car Crash, Lawsuit Alleges - NBC News 
+Description : Lawyers say the speed tracker led to a car crash that resulted in a man suffering permanent brain damage.
+-----------------------
+5. Illegal Immigration
+-----------------------
+Results 1 - 10 of 8375:
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/2c42b257-1f91-4eae-8cc5-0f41effbee29.html
+URL: http://www.nbcnews.com/storyline/immigration-border-crisis/illegal-immigration-changing-border-security-still-catching-n667916 
+Title : Illegal Immigration Is Changing. Border Security Is Still Catching Up - NBC News 
+Description : No matter how much border security is increased, the United States has a legal obligation to accept migrants who come seeking asylum.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/e3b635f2-487a-42c8-bfe3-97a1afa6b44d.html
+URL: http://www.nbcnews.com/storyline/immigration-border-crisis/illegal-immigration-changing-border-security-still-catching-n667916 
+Title : Illegal Immigration Is Changing. Border Security Is Still Catching Up - NBC News 
+Description : No matter how much border security is increased, the United States has a legal obligation to accept migrants who come seeking asylum.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/25b8a702-17f0-4c4f-9d9b-8c347de2b066.html
+URL: http://www.nbcnews.com/news/us-news/trump-signs-executive-orders-aimed-cracking-down-illegal-immigration-n712096 
+Title : Trump Signs Executive Orders Aimed at Cracking Down on Illegal Immigration - NBC News 
+Description : Trump said his aim was to keep the nation safe and end 'one injustice after another' for the families of Americans killed by undocumented immigrants.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/d27d0384-616a-4588-af26-a21e0b5be5d1.html
+URL: http://www.nbcnews.com/news/us-news/trump-signs-executive-orders-aimed-cracking-down-illegal-immigration-n712096 
+Title : Trump Signs Executive Orders Aimed at Cracking Down on Illegal Immigration - NBC News 
+Description : Trump said his aim was to keep the nation safe and end 'one injustice after another' for the families of Americans killed by undocumented immigrants.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/70298026-cb94-4740-81aa-a5ce9c45b38e.html
+URL: http://www.nbcnews.com/politics/politics-news/white-house-outlines-plans-crack-down-illegal-immigration-n712126 
+Title : White House Outlines Plans to Crack Down on Illegal Immigration - NBC News 
+Description : White House press secretary Sean Spicer said Wednesday the details of how a wall on the U.S.-Mexican border will be paid for have yet to be worked out
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/e1bfb199-b5e3-4413-9b88-eea733a94ba2.html
+URL: http://www.nbcnews.com/storyline/immigration-border-crisis/maritime-border-more-haitians-cubans-risk-their-lives-sea-n173021 
+Title : The Maritime Border: More Haitians and Cubans Risk Their Lives at Sea - NBC News 
+Description : Apprehension of illegal migrants from island nations at five-year high because of aggressive smugglers and Raul Castro's relaxed travel restrictions.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/a51bc697-8d5f-41f0-8cfd-0c103cecdca5.html
+URL: http://www.nbcnews.com/politics/immigration/trump-orders-could-deport-millions-build-wall-it-won-t-n712301 
+Title : Trump Orders Could Deport Millions, Build Wall, but It Won't Be Easy - NBC News 
+Description : President Donald Trump's executive orders to build a wall and crack down on illegal immigration could have explosive policy implications, experts say.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/297635ec-dda2-40ca-85b9-632114a1760f.html
+URL: http://www.nbcnews.com/storyline/immigration-border-crisis/maritime-border-more-haitians-cubans-risk-their-lives-sea-n173021 
+Title : The Maritime Border: More Haitians and Cubans Risk Their Lives at Sea - NBC News 
+Description : Apprehension of illegal migrants from island nations at five-year high because of aggressive smugglers and Raul Castro's relaxed travel restrictions.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/a63ae513-fe56-4540-a839-70f9c8e05251.html
+URL: http://www.nbcnews.com/politics/2016-election/trump-transition-team-filled-hardline-anti-immigration-advocates-n682651 
+Title : Trump Transition Team Filled with Hardline Anti-Immigration Advocates - NBC News 
+Description : President-elect Donald Trump is assembling some of the most conservative opponents to illegal immigration for his transition into the White House.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/9f255dda-8527-4068-96e6-bd4593471bde.html
+URL: http://www.nbcnews.com/storyline/immigration-border-crisis/arizona-residents-protest-arrival-undocumented-immigrant-children-n155941 
+Title : Arizona Residents Protest Arrival of Undocumented Immigrant Children - NBC News 
+Description : Arizona residents will gather to protest the arrival of 40 to 60 illegal immigrant children at a boys camp in the mountains.
+----------------
+6. Donald Trump
+----------------
+Results 1 - 10 of 12091:
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/33eb2dbc-3efa-44d5-87ff-12ae64ffcbe0.html
+URL: http://www.nbcnews.com/politics/donald-trump/trump-tweets-first-100-days-n714911 
+Title : Trump Tweets: First 100 Days - NBC News 
+Description : Follow what Trump has to say on his favorite social media platform over his first 100 days in office.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/8e7351b7-6999-427a-bf70-7381b52bf199.html
+URL: http://www.nbcnews.com/politics/2016-election/stump-donald-trumps-presidential-campaign-n453726 
+Title : On the Stump: Donald Trump's Presidential Campaign - NBC News 
+Description : See highlights from Donald Trump's campaign for the presidency.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/76589e3e-97ef-4f4c-a643-3bfb1420c71d.html
+URL: http://www.nbcnews.com/slideshow/donald-trumps-life-pictures-reality-tv-u-s-president-n571196 
+Title : Reality TV to U.S. President: Donald Trump's Road to the White House - NBC News 
+Description : Donald Trump's self-promotion, ambition and risk-taking made him a real estate mogul, reality TV star, and now the U.S. President.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/ff8826e8-5174-40e0-b999-4efc22adaef5.html
+URL: http://www.nbcnews.com/slideshow/donald-trumps-life-pictures-reality-tv-gop-nominee-n571196 
+Title : Reality TV to U.S. President: Donald Trump's Road to the White House - NBC News 
+Description : Donald Trump's self-promotion, ambition and risk-taking made him a real estate mogul, reality TV star, and now the U.S. President.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/56317d55-8606-475f-9659-2a1fdd48a589.html
+URL: http://www.nbcnews.com/politics/2016-election/analysis-vengeful-world-donald-trump-why-it-matters-n671721 
+Title : Analysis: The Vengeful World of Donald Trump, and Why It Matters - NBC News 
+Description : His emphasis on violence and retaliation, especially outside the confines of the law, is unique among modern nominees.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/2517d47e-70bb-458d-940f-425878123bde.html
+URL: http://www.nbcnews.com/meet-the-press/meet-press-transcript-august-16-2015-n412636 
+Title : Meet the Press Transcript - August 16, 2015 - NBC News 
+Description : MEET THE PRESS -- SUNDAY, AUGUST 16, 2015CHUCK TODD:This Sunday, face to face with Donald Trump.CHUCK TODD:Are we on a reality show now?DONALD TRUMP:T
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/03ed641c-8d2d-4a60-8f06-6ddd9ba18d66.html
+URL: http://www.nbcnews.com/meet-the-press/meet-press-12-25-16-n707096 
+Title : Meet the Press 12/25/16 - NBC News 
+Description : Joy-Ann Reid, Katy Tur, Hugh Hewitt, Robert Costa
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/61e38367-e9db-4129-b625-7c7859277a30.html
+URL: http://www.nbcnews.com/politics/2016-election/donald-trump-s-lawyers-ask-delay-trump-u-trial-n683251 
+Title : Donald Trump's Lawyers Ask for Delay of 'Trump U' Trial - NBC News 
+Description : Trump's attorneys emphasized the 'momentous, exceedingly complex' task ahead of Trump as he prepares to take over the White House.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/06d66823-dbed-43a7-a437-07a2a8a8f658.html
+URL: http://www.nbcnews.com/storyline/data-points/poll-donald-trump-still-leads-gop-field-n490116 
+Title : Poll: Donald Trump Still Leads the GOP Field - NBC News 
+Description : With the presidential primaries in full swing, Donald Trump maintains his sizable lead over the rest of the Republican field.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/c8300a0c-3490-4e0b-ad21-7ddc5e16bd45.html
+URL: http://www.nbcnews.com/politics/white-house/president-donald-trump-s-first-100-days-major-moments-n709706 
+Title : President Donald Trump's First 100 Days: The Major Moments - NBC News 
+Description : NBC News is documenting the key moment you need to know from each of President Donald Trump's first 100 days in the White House.
+----------
+7. Russia
+----------
+Results 1 - 10 of 7612:
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/b7e88093-ed7b-4751-9503-af2cc8ea814a.html
+URL: http://www.nbcnews.com/storyline/ukraine-crisis/ukraine-russia-we-cant-pay-3-billion-debt-we-owe-n482371 
+Title : Ukraine to Russia: We Can't Pay $3 Billion Debt We Owe by the Weekend - NBC News 
+Description : Ukraine faces a looming debt default after the country's finance ministry said Thursday that the country cannot make a $3 billion debt due to Russia this weekend without violating a debt-restructuring deal with other international creditors. Ukraine, which is supposed to pay down the debt by Sunday, said it is ready to keep negotiating with Russia about...
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/36474563-085a-4c2f-9b34-caa1bf29c106.html
+URL: http://www.nbcnews.com/storyline/ukraine-crisis/bigger-bite-obama-joins-eu-impose-new-sanctions-russia-n167801 
+Title : 'Bigger Bite': Obama Joins EU to Impose New Sanctions on Russia - NBC News 
+Description : Isolating Russia is "a choice that Russia and President Putin in particular has made," Obama says.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/70fdd57d-67cb-4c4f-a5b0-b6d699637ea5.html
+URL: http://www.nbcnews.com/storyline/ukraine-crisis/joe-biden-russia-cannot-be-allowed-redraw-map-europe-n301486 
+Title : Joe Biden: Russia 'Cannot Be Allowed to Redraw the Map of Europe' - NBC News 
+Description : Joe Biden warned Friday that Russia "cannot be allowed to redraw the map of Europe" and that Ukraine was suffering a "military onslaught" from Moscow.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/28cdb474-34f0-48c4-9900-c423aeed1eef.html
+URL: http://www.nbcnews.com/storyline/ukraine-crisis/ukrainians-say-they-face-torture-show-trials-russia-n420886 
+Title : Ukrainians Say They Face Torture, Show Trials in Russia - NBC News 
+Description : Russia has imprisoned at least 11 Ukrainians in what defendants and rights groups say is a smear campaign aimed at destroying Kiev's image worldwide.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/3f5af4c4-69cc-4d6c-a727-bc03df2ac247.html
+URL: http://www.nbcnews.com/storyline/ukraine-crisis/u-s-allies-discuss-new-sanctions-russia-over-ukraine-kerry-n310156 
+Title : U.S., Allies Discuss New Sanctions on Russia Over Ukraine: Kerry - NBC News 
+Description : Secretary of State John Kerry was in London on Saturday to meet with allies over possible new sanction on Russia.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/ad3958bb-6d89-4d2d-b767-ba8819a03985.html
+URL: http://www.nbcnews.com/storyline/ukraine-crisis/ukraine-puts-army-alert-russia-heats-crimea-stalemate-n628321 
+Title : Ukraine Puts Army on Alert as Russia Heats Up Crimea Stalemate - NBC News 
+Description : Ukraine's president put his army on combat alert Thursday as a war of words between Russia and Ukraine heated up the conflict over annexed Crimea.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/4c821d32-d588-4661-8bf5-931b2cfb29b1.html
+URL: http://www.nbcnews.com/storyline/ukraine-crisis/russia-has-right-deploy-nuclear-weapons-crimea-official-n321371 
+Title : Russia Has Right to Deploy Nuclear Weapons in Crimea: Official - NBC News 
+Description : Russia has the right to deploy nuclear arms in the Black Sea peninsula of Crimea, a Foreign Ministry official reportedly said on Wednesday.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/f0463bcb-cbdb-4819-ab09-5702b6ea6fea.html
+URL: http://www.nbcnews.com/storyline/ukraine-crisis/ukraine-violence-spikes-despite-cease-fire-u-s-russia-trade-n412211 
+Title : Ukraine Violence Spikes Despite Cease-Fire; U.S., Russia Trade Barbs - NBC News 
+Description : Russia and the U.S. have traded blame for one of the worst spikes in violence between separatist rebels and government troops in Ukraine.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/6f4cc215-2f21-45da-8011-3fec118e9b7d.html
+URL: http://www.nbcnews.com/storyline/ukraine-crisis/payback-russia-gets-hacked-revealing-putin-aide-s-secrets-n673956 
+Title : Payback? Russia Gets Hacked, Revealing Putin Aide's Secrets - NBC News 
+Description : Ukrainian hackers posted emails showing Russia's involvement in the separatist movement that has waged war in Ukraine.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/9521c97d-265b-48a2-9b2f-51bd93cef532.html
+URL: http://www.nbcnews.com/storyline/syria-peace-talks/russia-vetoes-u-n-demand-end-bombing-syria-s-aleppo-n662511 
+Title : Russia Vetoes U.N. Demand for End to Bombing of Syria's Aleppo - NBC News 
+Description : Russia has vetoed a U.N. resolution on Syria for the fifth time since the conflict began in 2011.
+--------
+8. NASA
+--------
+Results 1 - 10 of 536:
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/8c987f61-5620-4ae3-814e-bce029b6baaa.html
+URL: http://www.nbcnews.com/science/space/nasa-picks-four-astronauts-train-commercial-u-s-spaceflights-n389366 
+Title : NASA Picks Four Astronauts to Train for Commercial U.S. Spaceflights - NBC News 
+Description : NASA has selected a quartet of space shuttle veterans who could ride Boeing's CST-100 capsule or SpaceX's Dragon capsule into orbit as early as 2017.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/5cfc90c7-8949-4cb3-a6b4-82755eb5ba5f.html
+URL: http://www.nbcnews.com/mach/space/apollo-i-tragedy-taught-nasa-some-very-important-lessons-n713106 
+Title : Apollo I Tragedy Taught NASA Some Very Important Lessons - NBC News 
+Description : "I think it's important for everyone to not only respect the astronauts who are no longer with us, but to think about the space program and what it's done for us."
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/b17a8d1f-3f8f-4c74-897e-03a98a48d317.html
+URL: http://www.nbcnews.com/mach/space/apollo-i-tragedy-taught-nasa-some-very-important-lessons-n713106 
+Title : Apollo I Tragedy Taught NASA Some Very Important Lessons - NBC News 
+Description : "I think it's important for everyone to not only respect the astronauts who are no longer with us, but to think about the space program and what it's done for us."
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/8f5f6963-5d57-4e01-ad09-f8d910ccee11.html
+URL: http://www.nbcnews.com/science/space/nasa-unveils-2-new-missions-study-truly-strange-asteroids-n703266 
+Title : NASA Unveils 2 New Missions to Study Truly Strange Asteroids - NBC News 
+Description : NASA's next planetary missions will attempt to unravel the mysteries of some seriously bizarre asteroids.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/00e08ef4-472e-42ca-b9b9-cb30153d933c.html
+URL: http://www.nbcnews.com/science/space/nasa-unveils-2-new-missions-study-truly-strange-asteroids-n703266 
+Title : NASA Unveils 2 New Missions to Study Truly Strange Asteroids - NBC News 
+Description : NASA's next planetary missions will attempt to unravel the mysteries of some seriously bizarre asteroids.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/2a2bc981-3a07-42f4-88d3-c9672bdc5771.html
+URL: http://www.nbcnews.com/science/space/scott-kelly-nasa-astronaut-tweets-picture-manhattan-international-space-station-n363746 
+Title : Scott Kelly, NASA Astronaut, Tweets Picture of Manhattan From International Space Station - NBC News 
+Description : "Good morning #Manhattan! #bigapple #YearInSpace," Scott Kelly tweeted.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/abbe6c8a-775d-411f-93cc-eb6627d756e4.html
+URL: http://www.nbcnews.com/science/space/astronaut-scott-kelly-retiring-nasa-n536966 
+Title : Astronaut Scott Kelly Retiring From NASA - NBC News 
+Description : Kelly returned March 1 from a year-long mission in which he spent 340 days in space, gathering data that could help others in long trips.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/8826e497-6e0f-4384-9869-bc3e8ca0f08d.html
+URL: http://www.nbcnews.com/tech/innovation/nasa-setting-bunch-fires-space-purpose-n660561 
+Title : NASA Is Setting a Bunch of Fires in Space on Purpose - NBC News 
+Description : NASA wants to learn more about how fire behaves in space.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/f890b005-a5d5-4b0e-885b-93d263a65aca.html
+URL: http://www.nbcnews.com/science/space/astronaut-scott-kellys-twin-brother-mike-pulls-fast-one-nasa-n332796 
+Title : Astronaut Scott Kelly's Twin Brother Mike Pulls a Fast One on NASA - NBC News 
+Description : NASA chief Charles Bolden did a double-take when Scott's brother Mark showed up on launch morning without his usual mustache.
+ID: /Users/Lohith/Documents/NBCNewsData/NBCNewsDownloadData/29caabc4-cf76-4bd2-915f-538681dd41f4.html
+URL: http://www.nbcnews.com/mach/space/search-alien-life-needs-human-mars-missions-nasa-chief-scientist-n694046 
+Title : Search for Alien Life Needs Human Mars Missions, NASA Chief Scientist Says - NBC News 
+Description : Humans could potentially explore more locations than a Mars rover could and perform deeper scientific analysis than what is possible using a remote, robotic scientific laboratory, says NASA's chief scientist.
