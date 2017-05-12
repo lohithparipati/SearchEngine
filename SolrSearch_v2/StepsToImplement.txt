@@ -1,0 +1,33 @@
+1. Downloaded  Tika Jar file  from  here - http://www.apache.org/dyn/closer.cgi/tika/tika-server-1.14.jar.
+
+2. Wrote  htmlContentExtracter.java  file and generated  big.txt  with help of Tika jar file as it parses through all html files of news site.
+
+3. Downloaded Peter Norvig’s PHP Client ( SpellCorrector.php ) from  here - https://www.phpclasses.org/package/4859-PHP-Suggest-corrected-spelling-text-in-pure-PHP.html#download .
+
+4. Created php program to invoke php client program and generate serialized_dictionary.txt  file by sending big.txt as input.
+Note:   ini_set(‘memory_limit’, ‘-1’);  line is added to SpellCorrector program else dictionary won’t generate as memory goes out. big.txt, spellcorrector, simple php program invoking spell_corrector are all placed in same folder.
+
+5. Updated  solrconfig.xml  with below lines to implement auto suggest and refreshed my core in solr gui -
+
+<searchComponent class="solr.SuggestComponent" name="suggest"> 
+    <lst name="suggester">
+        <str name="name">suggest</str>
+        <str name="lookupImpl">FuzzyLookupFactory</str> <str name="field">_text_</str>
+        <str name="suggestAnalyzerFieldType">string</str>
+    </lst> 
+</searchComponent>
+
+<requestHandler class="solr.SearchHandler" name="/suggest"> 
+    <lst name="defaults">
+        <str name ="suggest">true</str>
+        <str name="suggest.count">5</str>
+        <str name="suggest.dictionary">suggest</str> 
+    </lst>
+    <arr name="components">
+        <str>suggest</str> 
+    </arr> 
+</requestHandler>
+
+6. Now updated my php file from Assignment-4 to implement auto suggest and spell checker with the resources generated in previous steps such as big.txt, SpellCorrector.php, serialized_dictionary.txt and suggest component in solr.
+
+7. For implementing snippet, I used  simple_html_dom.php  which helps in retrieving plain text from all html files indexed and can be used for matching with query terms to display in snippet if match exists.
