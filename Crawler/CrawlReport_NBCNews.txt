@@ -1,0 +1,46 @@
+Name: Lohith ParipatiUSC ID: 8299564286News site crawled: nbcnews.com
+
+Fetch Statistics
+==============
+ # fetches attempted:19998
+ # fetches succeeded:19030
+ # fetches aborted:409
+ # fetches failed:559
+
+Outgoing URLs:
+==============
+Total URLs extracted:1635082
+ # unique URLs extracted:199030
+ # unique URLs within News Site:78443
+ # unique URLs outside News Site:120587
+
+Status Codes:
+==============
+200 OK:19030
+301 Moved Permanently:343
+302 Found:67
+401 Unauthorized:0
+402 Payment Required:0
+403 Forbidden:0
+404 Not Found:553
+502 Bad Gateway:6
+
+File Sizes:
+===========
+< 1KB:5
+1KB ~ <10KB:8
+10KB ~ <100KB:10425
+100KB ~ <1MB:8547
+>= 1MB:45
+
+Content Types:
+==============
+text/html:19006
+image/gif:3
+image/jpeg:0
+image/jpg:0
+image/tiff:0
+image/png:1
+application/pdf:0
+application/msword:0
+application/xml:0
